@@ -10,7 +10,7 @@ const Footer = () => {
                     <strong
                         className="block dark:text-white text-center text-xl font-bold text-gray-900 sm:text-3xl"
                     >
-                      Farmconnect
+                      Farmconnect..
                     </strong>
 
                  
