@@ -88,7 +88,7 @@ const FAQ = () => {
                       </div>
                       </div>
       <h1 className="text-2xl font-semibold mb-4">Below are some of the questions and answers for your reference</h1>
-      <div>
+      {/* <div>
         {faqData.map((item, index) => (
           <FAQItem
             key={index}
@@ -98,7 +98,7 @@ const FAQ = () => {
             toggleAccordion={() => toggleAccordion(index)}
           />
         ))}
-      </div>
+      </div> */}
     </div>
   );
 };

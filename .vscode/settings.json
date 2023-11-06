@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/6d06289d-4a7a-4880-82c0-031760b3091a/resourceGroups/FConnectRg/providers/Microsoft.Web/sites/FarmerConnect",
+    "appService.deploySubpath": "."
+}
